@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+  background-image: linear-gradient(
+    to bottom, 
+    rgba(0,0,0, 0.2), 
+    rgba(0,0,0, 0.7)), 
+    url('../src/assets/12367.jpg');
+  background-size: cover;
+  background-position: top;
+  height: 100vh;
+}
+
+.App.warm {
+  background-image: linear-gradient(
+    to bottom, 
+    rgba(0,0,0, 0.2), 
+    rgba(0,0,0, 0.7)), 
+    url('../src/assets/bg-warm.jpg');
+} 
+

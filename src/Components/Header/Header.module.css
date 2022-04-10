@@ -1,0 +1,13 @@
+.Header {
+    color: white;
+}
+.Header h1 {
+    padding-top: 20px;
+    font-size: 55px;
+    text-shadow: 0 3px 6px rgba(0,0,0, .5);
+}
+
+.Header span {
+    font-size: 16px;
+    text-shadow: 0 2px 3px rgba(0,0,0, .5);
+}
